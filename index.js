@@ -1,4 +1,4 @@
-
+// Create the template for objects that are hotels
 function Hotel(name, rooms, booked) {
   this.name = name;
   this.rooms = rooms;
@@ -30,3 +30,7 @@ var details3 = SadoHotel.name + ' rooms: ';
 var elHotel3 = document.getElementById('hotel3');
 elHotel3.textContent = details3;
 
+/* 
+NOTE: textContent does not work in IE8 or earlier
+You can use innerHTML on lines 21 and 26, but note the security issues on p228-231
+*/
