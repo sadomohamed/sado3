@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <title>Sado's Module 07</title>
-    <link rel="stylesheet" href="/module07/m07.css" />
+    <link rel="stylesheet" href="index.css" />
   </head>
   <body>
     <h1>YayaHotel</h1>
@@ -13,6 +13,6 @@
       <div id="hotel2"></div>
       <div id="hotel3"></div>
     </div>
-    <script src="/module07/m07.js"></script>
+    <script src="index.js"></script>
   </body>
 </html>
