@@ -1,12 +1,6 @@
-
-/* JavaScript & jQuery - Chapter 3: Functions, Methods & Programming */
-/* The book used a font called Eau Sans - the download examples use Open Sans */
-
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
-
 body {
   background-color: #fff;
-  background: url("../images/travelworthy-backdrop.jpg") no-repeat center center fixed;
+  background: url("http://www.geobookings.com/data/accomodations/03ac5df68db3441893459f77c0b8743f.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -14,8 +8,9 @@ body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;}
 
+
 h1 {
-  background: #1e1b1e url("../images/travelworthy-logo.gif") no-repeat;
+  background: #1e1b1e url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCzm7ILQXhKMk_ItSBCEpZOvAKVqnmwvzazdeMnmjenfbkECt") no-repeat;
   width: 230px;
   height: 180px;
   float: left;
